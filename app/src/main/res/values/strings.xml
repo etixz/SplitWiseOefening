@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SplitWiseOefening</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_et_hint_amount">Amount e.g.: 5.00</string>
+    <string name="str_et_hint_tip">Tip e.g.: 0.50</string>
+    <string name="str_et_hint_party">Amount of people:</string>
+    <string name="str_btn_split">Split</string>
+    <string name="str_tv_splitAmount">Hier komt het bedrag die iedereen moet</string>
+    <string name="str_tv_splitbedrag" />
+    <string name="str_tv_title">Haaaaaaaaaaaaaaaaaaaaaaaayyyyyyyyyyyyyy</string>
+    <string name="str_tv_abouttekst">Dit is about tekst enal</string>
+    <string name="str_pref_payment">pref_paymethod</string>
+    <string name="str_pref_title_payment">Choose your prefered paying method</string>
+    <string name="str_pref_tip">Tip:</string>
+    <string name="pref_tip">pref_tip</string>
+    <string name="pref_paymentmethod">pref_paymentmethod</string>
+</resources>

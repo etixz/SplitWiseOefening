@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="paymethods">
+        <item>None</item>
+        <item>Visa</item>
+        <item>PayPal</item>
+        <item>Cash</item>
+        <item>Bancontact</item>
+        <item>Credit Card</item>
+        <item>Maaltijdcheques duh</item>
+    </string-array>
+
+</resources>

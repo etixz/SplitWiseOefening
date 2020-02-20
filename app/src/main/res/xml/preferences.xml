@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:defaultValue="Default value"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:key="@string/pref_tip"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:summary="@string/pref_tip"
+        android:title="@string/str_pref_tip" />
+    <ListPreference
+        android:layout_width="wrap_content"
+        android:defaultValue="false"
+        android:entries="@array/paymethods"
+        android:entryValues="@array/paymethods"
+        android:icon="@android:drawable/star_big_on"
+        android:key="@string/pref_paymentmethod"
+        android:summary="%s"
+        android:title="@string/str_pref_title_payment" />
+</PreferenceScreen>
